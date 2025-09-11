@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently learning 3d generation in NJU.
+I'm currently learning 3d vision in NJU-3dv lab. My research interests include spatial reconstruction and world simulation.
