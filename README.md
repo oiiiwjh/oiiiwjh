@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently learning 3d vision in NJU-3DV lab. My research interests include spatial reconstruction and world simulation.
+I'm currently a PhD student at NJU-PIL (Physical Intelligence Lab). My research interests include spatial reconstruction and world simulation.
 
